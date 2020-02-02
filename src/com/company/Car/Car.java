@@ -1,4 +1,3 @@
-//package com.company.Car;
 //
 //public class Car {
 //        String model = "unknown";

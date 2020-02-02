@@ -1,6 +1,4 @@
-//package com.company.Car;
-//
-//
+
 //        public class Main {
 //            public static void main(String[] args) {
 //                Subaru legacy = new Subaru("Subaruuuu");
@@ -19,4 +17,4 @@
 //​
 //            }
 //        }
-//
+
